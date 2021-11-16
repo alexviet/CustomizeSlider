@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#FF0000</color>
+
+    <color name="default_thumb_color">#ff6f00</color>
+    <color name="default_track_color">#c3a9a9a9</color>
+
+    <array name="default_index_gradient">
+        <item>@color/green</item>
+        <item>@color/red</item>
+    </array>
+
+    <array name="default_track_gradient">
+        <item>@color/default_track_color</item>
+    </array>
+    <array name="progressColor">
+        <item>@color/colorPrimary</item>
+    </array>
+    <array name="progressRainbow">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_green_light</item>
+    </array>
+
+    <color name="color_main_bg">#28292F</color>
+    <array name="progressGradientColors">
+        <item>#04F8C1</item>
+        <item>#1DCFE6</item>
+        <item>#E53A40</item>
+    </array>
+</resources>
